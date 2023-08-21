@@ -1,1 +1,1 @@
-# AutoExportLR - ปลั๊กอิน LR สำหรับ Export file อัตโนมัติ
+# AutoExportLR - ปลั๊กอิน LR สำหรับ Export file อัตโนมัติ ด้วยภาษา LUA
